@@ -43,10 +43,4 @@
 <h3> Calendario (Ventas) </h3>
 <p align="center"><img src="static/calVen.png"></p>
 
-<p> Y más... Si quieres ver todas las demás funciones, te explico como instalarlo.
-
-<h2> Instalación </h2>
-
-<ol>
-<li> git clone https://github.com/Cu34v0/Inventario.git </li>
-</ol>
+<p> Y más... </p> 
