@@ -30,3 +30,6 @@
 
 <h3> Agregado de usuarios </h3>
 <p align="center"><img src="static/user.png"></p>
+
+<h3> Agregado de medidas </h3>
+<p align="center"><img src="static/medida.png"></p>
