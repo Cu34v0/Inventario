@@ -24,3 +24,6 @@
 </ul>
 
 <h2>Capturas de pantalla</h2>
+
+<h3>Login:</h3>
+<p align="center"><img src="static/login.png"></p>
