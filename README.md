@@ -29,4 +29,4 @@
 <p align="center"><img src="static/login.png"></p>
 
 <h3> Agregado de usuarios </h3>
-<p align="center"><img src="static/user.png>
+<p align="center"><img src="static/user.png"></p>
