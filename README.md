@@ -22,3 +22,5 @@
 <ul>
 <li>MySQL (MariaDB) usada con XAMPP</li>
 </ul>
+
+<h2>Capturas de pantalla</h2>
