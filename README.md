@@ -33,3 +33,12 @@
 
 <h3> Agregado de medidas </h3>
 <p align="center"><img src="static/medida.png"></p>
+
+<h3> Agregado de almacenes </h3>
+<p align="center"><img src="static/almacen.png"></p>
+
+<h3> Agregado de ventas </h3>
+<p align="center"><img src="static/venta.png">
+
+<h3> Calendario (Ventas) </h3>
+<p align="center"><img src="static/calVen.png"></p>
