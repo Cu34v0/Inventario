@@ -17,7 +17,7 @@
 <body class="sb-nav-fixed">
     <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
         <!-- Navbar Brand-->
-        <a class="navbar-brand ps-3" href="<?php echo base_url ?>Usuarios"><i class="fas fa-boxes mx-2"></i>Cajas y Cartones VCC</a>
+        <a class="navbar-brand ps-3" href="<?php echo base_url ?>Usuarios"><i class="fas fa-boxes mx-2"></i>Sistema de Admin</a>
         <!-- Sidebar Toggle-->
         <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0 mx-4" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
 
